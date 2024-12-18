@@ -1,0 +1,11 @@
+---
+title: "motion lab chalkboard"
+format:
+  revealjs:
+    theme: black
+    chalkboard:
+      src: drawings.json
+---
+
+
+
