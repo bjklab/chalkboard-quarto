@@ -1,0 +1,10 @@
+---
+title: "motion lab whiteboard"
+format:
+  revealjs:
+    theme: white
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+---
+
