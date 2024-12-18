@@ -1,5 +1,5 @@
 ---
-title: "motion lab whiteboard"
+pagetitle: "motion lab whiteboard"
 format:
   revealjs:
     theme: white
